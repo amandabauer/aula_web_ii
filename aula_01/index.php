@@ -1,4 +1,4 @@
-teste<?php
+<?php
 require('autoload.php');
 
 $footer = new Footer('&copy; Amanda Bauer Hendges 2021');
